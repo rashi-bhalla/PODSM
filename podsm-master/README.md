@@ -9,8 +9,7 @@ performance in classifying heterogeneous distributed data streams.
 If you have Docker installed, you can run the experiments contained
 within this codebase by executing `make jupyter`, opening the returned
 URL in a web browser, and executing the contents of the provided
-Jupyter notebooks (This has only been tested on an Ubuntu 16.04 host
-running Docker 17.05.0-ce).
+Jupyter notebooks.
 
 Note that the results of each experiment are saved to disk to prevent
 the need to re-execute the experiments when re-viewing an experiment's
